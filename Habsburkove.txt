@@ -1,0 +1,19 @@
+Rudolf II.,1552,1612
+Ferdinand III.,1608,1657:Ferdinand IV.,Filip August,Maxmilian Tomas,Leopold I.
+Leopold I.,1640,1705:Josef I.,Karel VI.
+Josef I.,1678,1711
+Matyas,1557,1619
+Karel VI.,1685,1740
+Ferdinand I.,1503,1564:Maxmilian II.,Ferdinand II. Tyrolsky,Karel Styrsky
+Ferdinand Styrsky,1578,1637:Ferdinand III.,Leopold Vilem
+Maxmilian II.,1527,1576:Rudolf II.,Matyas
+Karel Styrsky,1540,1590:Ferdinand Styrsky,Maxmilian Arnost,Leopold,Karel
+Ferdinand IV.,1633,1654
+Ferdinand II. Tyrolsky,1529,1595
+Filip August,9999,9999
+Maxmilian Tomas,9999,9999
+Ferdinand III.,9999,9999
+Leopold Vilem,9999,9999
+Maxmilian Arnost,9999,9999
+Leopold,9999,9999
+Karel,9999,9999
