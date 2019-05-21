@@ -1,2 +1,2 @@
-# pb162-final-exam
-Java exam
+# Java
+Solution of final exam for subject PB162 at Masaryk University.
